@@ -1,0 +1,7 @@
+function calc_dist(velocidad:real, tiempo:real): real ;
+var
+  distancia: real;
+begin
+    distancia := velocidad*tiempo;
+    calc_dist := distancia;
+end

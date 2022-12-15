@@ -1,0 +1,10 @@
+function sumar(a:integer, b:integer, c:real) : real;
+var
+    y:integer;
+    x, total: real;
+begin
+    y :=1+2;
+    x := x +1;
+    total := a + b + c;
+    sumar:= total;
+end
